@@ -148,7 +148,7 @@
 		A3957B61228E92C20014955F /* AdViewURLCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C375F84186960FF0087FCC0 /* AdViewURLCache.h */; };
 		A3957B62228E92C40014955F /* AdViewURLCache.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5C375F85186960FF0087FCC0 /* AdViewURLCache.mm */; };
 		A3957B6A228E92DC0014955F /* AdViewReachability.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C375F7D186960FF0087FCC0 /* AdViewReachability.h */; };
-		A3957B6B228E92DE0014955F /* AdViewReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C375F7E186960FF0087FCC0 /* AdViewReachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		A3957B6B228E92DE0014955F /* AdViewReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C375F7E186960FF0087FCC0 /* AdViewReachability.m */; };
 		A3957B6D228E92E60014955F /* AdViewSKStoreProductViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CBB913C21DAE2D0C00668EAB /* AdViewSKStoreProductViewController.h */; };
 		A3957B6E228E92E80014955F /* AdViewSKStoreProductViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBB913C31DAE2D0C00668EAB /* AdViewSKStoreProductViewController.m */; };
 		A3957B6F228E94B20014955F /* AdViewVastNonVideoView.h in Headers */ = {isa = PBXBuildFile; fileRef = E4E94EC3205FC424004E1573 /* AdViewVastNonVideoView.h */; };
