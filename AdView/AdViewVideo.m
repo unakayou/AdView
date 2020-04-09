@@ -5,7 +5,7 @@
 //  Created by AdView on 2018/8/1.
 //
 
-#import <AdViewSDK/AdViewVideo.h>
+#import "AdViewVideo.h"
 #import "AdViewVideoViewController.h"
 #import "ADURLConnection.h"
 #import "AdViewWebViewController.h"
