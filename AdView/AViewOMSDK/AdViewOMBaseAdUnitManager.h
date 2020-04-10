@@ -7,14 +7,14 @@
 
 #import <Foundation/Foundation.h>
 #import "AdViewDefines.h"
-#import <OMSDK_Adview/OMIDSDK.h>
-#import <OMSDK_Adview/OMIDAdEvents.h>
-#import <OMSDK_Adview/OMIDAdSession.h>
-#import <OMSDK_Adview/OMIDVideoEvents.h>
-#import <OMSDK_Adview/OMIDScriptInjector.h>
-#import <OMSDK_Adview/OMIDAdSessionContext.h>
-#import <OMSDK_Adview/OMIDAdSessionConfiguration.h>
-#import <OMSDK_Adview/OMIDVASTProperties.h>
+#import "OMSDK_Adview/OMIDSDK.h"
+#import "OMSDK_Adview/OMIDAdEvents.h"
+#import "OMSDK_Adview/OMIDAdSession.h"
+#import "OMSDK_Adview/OMIDVideoEvents.h"
+#import "OMSDK_Adview/OMIDScriptInjector.h"
+#import "OMSDK_Adview/OMIDAdSessionContext.h"
+#import "OMSDK_Adview/OMIDAdSessionConfiguration.h"
+#import "OMSDK_Adview/OMIDVASTProperties.h"
 
 NS_ASSUME_NONNULL_BEGIN
 extern NSString * const ADVGOSDKPartnerNameString;
